@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.header-bg {
+    text-align: center;
+    background-color: #3498db;
+    padding: 10px;
+    color: #fff;
+}
+
+.author {
+    color: #ecf0f1;
+}
+
+article {
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.post-title {
+    color: #3498db;
+}
+
+.post-meta {
+    color: #777;
+}
+
+.post-content {
+    line-height: 1.6;
+}
+
+.footer-bg {
+    margin-top: 20px;
+    text-align: center;
+    background-color: #3498db;
+    padding: 10px;
+    color: #fff;
+}
